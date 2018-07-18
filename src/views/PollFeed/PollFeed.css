@@ -1,0 +1,15 @@
+.poll-feed{
+    padding-top: 64px;
+}
+
+.add-poll{
+    justify-content: center;
+    padding-top: 128px;
+    padding-left: 64px;
+    padding-right: 64px;
+}
+
+.choices{
+    display: inline-block;
+    margin-top: 24px;
+}

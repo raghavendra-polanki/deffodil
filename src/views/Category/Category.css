@@ -1,0 +1,13 @@
+.add-category{
+    padding-top: 64px;
+}
+
+.category-list{
+    padding-top: 64px;
+}
+
+.category-chips {
+    display: 'flex';
+    justify-content: center;
+    flex-wrap: 'wrap';
+}
